@@ -9,15 +9,22 @@ Trenutni izgled sajta možeš videti ovde:
 
 Preduslov za automatski razvoj je da imaš instaliran [node.js](https://nodejs.org)!
 
-Prvo, kloniraj projekat i uđi u njega:
+Kloniraj projekat:
 ```
 git clone https://github.com/mudroljub/ucenje-za-decu.git
+```
+Uđi u njega:
+```
 cd ucenje-za-decu
 ```
 
-Potom instaliraj biblioteke i pokreni automatski razvoj:
+Instaliraj biblioteke:
 ```
 npm install
+```
+
+Pokreni automatski razvoj:
+```
 npm start
 ```
 
