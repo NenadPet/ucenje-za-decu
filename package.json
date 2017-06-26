@@ -1,0 +1,22 @@
+{
+  "name": "ucenje-za-decu",
+  "version": "1.0.0",
+  "description": "Edukativne igrice za decu koja su mentalno ometena.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudroljub/ucenje-za-decu.git"
+  },
+  "author": "Damjan Pavlica <mudroljub@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudroljub/ucenje-za-decu/issues"
+  },
+  "homepage": "https://github.com/mudroljub/ucenje-za-decu#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
