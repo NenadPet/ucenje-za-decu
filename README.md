@@ -28,6 +28,8 @@ Pokreni automatski razvoj:
 npm start
 ```
 
+P.S. Ako želiš pomagalo za Javaskript instaliraj ESLint (dodatak za Atom).
+
 ## TODO
 
 ### Razvoj sajta
