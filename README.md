@@ -23,7 +23,7 @@ npm start
 
 ## TODO
 
-### Praviti sajt
+### Razvoj sajta
 
 * napraviti spisak igrica
 * napraviti header
@@ -31,7 +31,7 @@ npm start
 * napraviti logo
 * srediti dizajn
 
-### Praviti igrice (realizovati [ideje](IDEJE.md))
+### Razvoj igrica (vidi [ideje](IDEJE.md))
 
 * brojevi
 * boje
