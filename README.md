@@ -2,7 +2,9 @@
 
 Edukativne igrice za decu koja su mentalno ometena.
 
-Trenutno stanje sajta možeš pogledati ovde: [mudroljub.github.io/ucenje-za-decu/](https://mudroljub.github.io/ucenje-za-decu/)
+Trenutni izgled sajta možeš videti ovde: 
+
+[mudroljub.github.io/ucenje-za-decu/](https://mudroljub.github.io/ucenje-za-decu/)
 
 ## TODO
 
