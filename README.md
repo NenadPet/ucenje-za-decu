@@ -6,12 +6,13 @@ Trenutno stanje sajta možeš pogledati ovde: [mudroljub.github.io/ucenje-za-dec
 
 ## TODO
 
-### Postaviti strukturu sajta
+### Praviti sajt
 
 * napraviti spisak igrica
 * napraviti header
 * napraviti footer
 * napraviti logo
+* srediti dizajn
 
 ### Praviti igrice (realizovati [ideje](IDEJE.md))
 
