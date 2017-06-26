@@ -5,7 +5,7 @@ Edukativne igrice za decu koja su mentalno ometena.
 Trenutni izgled sajta možeš videti ovde:
 [mudroljub.github.io/ucenje-za-decu/](https://mudroljub.github.io/ucenje-za-decu/)
 
-## Razvoj
+## Uputstvo za razvoj
 
 > Preduslov za automatski razvoj je da imaš instaliran [node.js](https://nodejs.org)!
 
