@@ -7,7 +7,7 @@ Trenutni izgled sajta možeš videti ovde:
 
 ## Razvoj
 
-Preduslov za automatski razvoj je da imaš instaliran [node.js](https://nodejs.org)!
+> Preduslov za automatski razvoj je da imaš instaliran [node.js](https://nodejs.org)!
 
 Kloniraj projekat:
 ```
