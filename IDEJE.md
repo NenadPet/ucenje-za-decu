@@ -10,4 +10,4 @@
 * [саобраћај](https://www.slideshare.net/DamjanPavlica/ss-77278530)
 * [слова и животиње](https://www.slideshare.net/DamjanPavlica/ss-77278539)
 * [oboji samo trouglove](slike/oboji samo trouglove.jpg)
-* [пронађи троуглове](slike/пронађи троуглове.png)
+* [пронађи троуглове](slike/pronadji-trouglove.png)
