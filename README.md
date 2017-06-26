@@ -1,6 +1,8 @@
 # Učenje za decu
 
-Učenje za decu koja su mentalno ometena
+Edukativne igrice za decu koja su mentalno ometena.
+
+Trenutno stanje sajta možeš pogledati ovde: [mudroljub.github.io/ucenje-za-decu/](https://mudroljub.github.io/ucenje-za-decu/)
 
 ## TODO
 
