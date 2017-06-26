@@ -7,9 +7,9 @@ Trenutni izgled sajta možeš videti ovde:
 
 ## Razvoj
 
-Preduslov za automatski razvoj je da imaš instaliran [node.js](https://nodejs.org).
+Preduslov za automatski razvoj je da imaš instaliran [node.js](https://nodejs.org)!
 
-Kloniraj projekat i uđi u njega:
+Prvo, kloniraj projekat i uđi u njega:
 ```
 git clone https://github.com/mudroljub/ucenje-za-decu.git
 cd ucenje-za-decu
