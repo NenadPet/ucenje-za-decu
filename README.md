@@ -28,7 +28,7 @@ Pokreni automatski razvoj:
 npm start
 ```
 
-P.s. Ako želiš pomagalo za Javaskript instaliraj ESLint (dodatak za Atom).
+P.s. Ako želiš pomagalo za Javaskript u editoru instaliraj ESLint (dodatak za Atom).
 
 ## TODO
 
