@@ -32,22 +32,19 @@ Od sad, svaki put kada promeniš nešto u editoru i sačuvaš izmenu, stranica u
 
 ## TODO
 
-### Razvoj sajta
-
-* napraviti spisak igrica
-* napraviti header
-* napraviti footer
-* napraviti logo
-* srediti dizajn
-
-### Razvoj igrica (vidi [ideje](IDEJE.md))
-
-* brojevi
-* boje
-* slagalica
-* Zivotinje
-* лавиринт
-* облачење
-* облици
-* саобраћај
-* слова и животиње
+* razvijati sajt
+  * napraviti spisak igrica
+  * napraviti header
+  * napraviti footer
+  * napraviti logo
+  * srediti dizajn
+* razvijati igrice (vidi [ideje](IDEJE.md))
+  * brojevi
+  * boje
+  * slagalica
+  * Zivotinje
+  * лавиринт
+  * облачење
+  * облици
+  * саобраћај
+  * слова и животиње
