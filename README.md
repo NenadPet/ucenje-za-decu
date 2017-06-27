@@ -5,9 +5,11 @@ Edukativne igrice za decu koja su mentalno ometena.
 Trenutni izgled sajta možeš videti ovde:
 [mudroljub.github.io/ucenje-za-decu/](https://mudroljub.github.io/ucenje-za-decu/)
 
-## Uputstvo za razvoj
+Obavezno pogledaj [IDEJE](IDEJE.md)!
 
-> Preduslov za automatski razvoj je da imaš instaliran [node.js](https://nodejs.org)!
+## Razvoj
+
+> Preduslov je da imaš instaliran [node.js](https://nodejs.org)!
 
 Kloniraj projekat:
 ```
@@ -28,23 +30,26 @@ Pokreni automatski razvoj:
 npm start
 ```
 
-Od sad, svaki put kada promeniš nešto u editoru i sačuvaš izmenu, stranica u pregledaču će se automatski osvežiti.
+Od sad, svaki put kada sačuvaš izmenu, stranica u pregledaču će se automatski osvežiti.
 
 ## TODO
 
-- razvijati sajt
-  - napraviti spisak igrica
-  - napraviti header
-  - napraviti footer
-  - napraviti logo
-  - srediti dizajn
-- razvijati igrice na osnovu [ideja](IDEJE.md)
-  - brojevi
-  - boje
-  - slagalica
-  - Zivotinje
-  - лавиринт
-  - облачење
-  - облици
-  - саобраћај
-  - слова и животиње
+### Web dev
+
+- napraviti header
+- napraviti footer
+- napraviti logo
+- srediti dizajn
+- napraviti stranu sa spiskom igrica
+
+### Game dev
+
+- brojevi
+- boje
+- slagalica
+- Zivotinje
+- лавиринт
+- облачење
+- облици
+- саобраћај
+- слова и животиње
