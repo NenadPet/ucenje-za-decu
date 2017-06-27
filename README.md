@@ -5,6 +5,8 @@ Edukativne igrice za decu koja su mentalno ometena.
 Trenutni izgled sajta možeš videti ovde:
 [mudroljub.github.io/ucenje-za-decu/](https://mudroljub.github.io/ucenje-za-decu/)
 
+Obavezno pogledaj [ideje](IDEJE.md)!
+
 ## Uputstvo za razvoj
 
 > Preduslov za automatski razvoj je da imaš instaliran [node.js](https://nodejs.org)!
@@ -30,19 +32,17 @@ npm start
 
 Od sad, svaki put kada promeniš nešto u editoru i sačuvaš izmenu, stranica u pregledaču će se automatski osvežiti.
 
-## TODO
+## TODO lista
 
-### Web dev
+### Web dev odeljenje
 
-- napraviti spisak igrica
 - napraviti header
 - napraviti footer
 - napraviti logo
 - srediti dizajn
+- napraviti stranu sa spiskom igrica
 
-### Game dev
-
-Razvijati igrice na osnovu [ideja](IDEJE.md):
+### Game dev odeljenje
 
 - brojevi
 - boje
