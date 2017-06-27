@@ -2,7 +2,8 @@
 
 Predlažem da radimo domaće i divlje životinje to bi bile dve posebne celine na koje bi primenili isti dizajn igrice bi bile nivelisane na isti način (od lakših ka težim) išle bi pod nastavni predmet: SVET OKO NAS
 
-DIZAJN:
+## DIZAJN:
+
 1. kratak video snimak o dom.i div.životinjama
 2. kratak tekstualni opis životinja (opis živ.,stanište,koristi za čoveka,vrste,briga/ishrana)
 3. uz tekst ubaciti i slike životinja
@@ -11,7 +12,8 @@ DIZAJN:
 6. header, footer, Brankičin logo se uklapa u trenutni izgled stranice
 ...
 
-IGRICE:
+## IGRICE:
+
 1. Poveži ime sa životinjom/slikom (drag&drop)
 2. Napiši ime životinje ispod slike (pretpostavljam da bi tu išlo submit dugme i true/false)
 3. Složi sliku životinja i napiši ime (puzzle mogu da imaju više nivoa-od jednostavnijih ka težim; (drag&drop,move???))
