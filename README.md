@@ -38,7 +38,7 @@ Od sad, svaki put kada promeniš nešto u editoru i sačuvaš izmenu, stranica u
   - napraviti footer
   - napraviti logo
   - srediti dizajn
-- razvijati igrice (vidi [ideje](IDEJE.md))
+- razvijati igrice na osnovu [ideja](IDEJE.md)
   - brojevi
   - boje
   - slagalica
