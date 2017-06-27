@@ -24,7 +24,7 @@ IGRICE:
 10. Spoji roditelje sa mladuncima (kao igra memorije-sličice se okreću na dbclick i ostaju fiksirane ili se spuste dole u za to predviđena polja)
 11. Ništa mi više ne pada na pamet :-(
 
-## Razne ideje
+## Prezentacije
 
 * [brojevi](https://www.slideshare.net/DamjanPavlica/brojevi)
 * [boje](https://www.slideshare.net/DamjanPavlica/ss-77278476)
