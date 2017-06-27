@@ -28,7 +28,7 @@ Pokreni automatski razvoj:
 npm start
 ```
 
-Od sad, svaki put kada sačuvaš izmenu, stranica u pregledaču će se automatski osvežiti.
+Od sad, svaki put kada promeniš nešto u editoru i sačuvaš izmenu, stranica u pregledaču će se automatski osvežiti.
 
 ## TODO
 
