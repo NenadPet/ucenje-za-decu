@@ -28,7 +28,7 @@ Pokreni automatski razvoj:
 npm start
 ```
 
-P.s. Ako želiš pomagalo za Javaskript u editoru instaliraj ESLint (dodatak za Atom).
+Od sad, svaki put kada sačuvaš izmenu, stranica u pregledaču će se osvežiti.
 
 ## TODO
 
