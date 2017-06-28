@@ -34,22 +34,14 @@ Od sad, svaki put kada sačuvaš izmenu, stranica u pregledaču će se automatsk
 
 ## TODO
 
-### Web dev
+### Dizajn tim
 
-- napraviti header (Brankica)
-- napraviti footer
-- napraviti logo
-- srediti dizajn
-- napraviti stranu sa spiskom igrica
+- napraviti header i logo (Brankica)
+- napraviti footer (Maja)
+- srediti dizajn, slova, boje (Velja i Jelena)
 
-### Game dev
+### Game tim
 
-- brojevi
-- boje
-- slagalica
-- Zivotinje
-- лавиринт
-- облачење
-- облици
-- саобраћај
-- слова и животиње
+- unosenje naziva zivotinja (Jakov i Tijana)
+- puzle (Jovan)
+- domace i divlje zivotinje svrstavanje (Dzoni)
