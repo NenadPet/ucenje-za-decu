@@ -36,7 +36,7 @@ Od sad, svaki put kada sačuvaš izmenu, stranica u pregledaču će se automatsk
 
 ### Web dev
 
-- napraviti header
+- napraviti header (Brankica)
 - napraviti footer
 - napraviti logo
 - srediti dizajn
